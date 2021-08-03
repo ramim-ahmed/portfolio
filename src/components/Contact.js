@@ -17,7 +17,7 @@ const Contact = () => {
                                 <FontAwesomeIcon className='phone' icon={faPhone} />
                             </div>
                             <div className="phone-number text-center">
-                                <h3>+8801684799670</h3>
+                                <h4>+8801684799670</h4>
                             </div>
                         </div>
                     </div>
@@ -27,7 +27,7 @@ const Contact = () => {
                                 <FontAwesomeIcon className='phone' icon={faEnvelope} />
                             </div>
                             <div className="phone-number text-center">
-                                <h3>devramimahmed01@gmail.com</h3>
+                                <h4>devramimahmed01@gmail.com</h4>
                             </div>
                         </div>
                     </div>
@@ -37,7 +37,7 @@ const Contact = () => {
                                 <FontAwesomeIcon className='phone' icon={faLocationArrow} />
                             </div>
                             <div className="phone-number text-center">
-                                <h3>Baridhara, Gulshan-2, Dhaka</h3>
+                                <h4>Baridhara, Gulshan-2, Dhaka</h4>
                             </div>
                         </div>
                     </div>
